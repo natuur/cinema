@@ -3,6 +3,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+<<<<<<< HEAD
  }
 
 /* Grid system */
@@ -50,6 +51,25 @@
 
 .row {
 	width: 100%;
+=======
+}
+
+/* Grid system */
+
+.container-fluid {
+	width:90%;
+	margin: 0px auto;
+}
+
+.container {
+	width: 960px;
+	padding-left: 14px; 
+	padding-right: 14px;
+	margin: 0px auto;
+}
+
+.row {
+>>>>>>> e2bde3add2c4329de6b6f70a43a58358af07ac34
 	margin-left: -14px;
 	margin-right: -14px;
 }
@@ -58,7 +78,10 @@
   content: " ";
   display: table;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> e2bde3add2c4329de6b6f70a43a58358af07ac34
 .row:after {
   clear: both;
 }
