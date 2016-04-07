@@ -1,0 +1,130 @@
+
+.what{
+    margin: 80px;
+    text-align: center;
+}
+
+.nina{
+    border-radius: 70px;
+    height: 120px;
+    width: 120px;
+    margin: 50px;
+}
+
+.what h1{
+    color:#505050  ;
+    font-size: 30px;
+}
+
+.what p{
+    color:#909090;
+}
+
+.what h4{
+    color:#484848  ;
+}
+
+.boton9 {
+    width: 119px;
+    padding: 10px;
+    font-size: ;
+    background: #0099CC;
+    text-align: center;
+    margin: auto 0;
+    height: 54px;
+    font-size: 20px;
+    color: white;
+    display: inline-block;
+}
+
+.contacto h2{
+    padding: 20px;
+
+}
+
+.contacto p{
+    padding: 20px;
+}
+
+.contacto h3{
+    padding: 10px;
+}
+
+.contacto{
+background-image: url(../img/background/contactus.jpg);
+height: 510px;
+width: 50%;
+color:white;
+text-align: center;
+background-size: cover;
+}
+
+.negro2{
+background-color: black;
+height: 510px;
+width: 100%;
+ opacity: 0.5;
+background-size: cover;
+position: relative;
+left: 12px;
+}
+
+.imp1{
+    height: 42px;
+    width: 390px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+
+.imp2{
+    height: 160px;
+    width: 390px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.ion2{
+color:white;
+float: left;
+margin-top: 20px;
+}
+
+.ion3{
+color:white;
+
+}
+
+.pe{
+   float: left;
+ 
+}
+
+.follow{
+    margin: 50px;
+    text-align: center;
+}
+
+.follow p{
+    margin:40px;
+    color:#888888 ;
+}
+
+.ion4{
+color:black;
+font-size:40px; 
+
+}
+
+.negrochico{
+    background-color: black;
+    text-align: center;
+    color:#989898;
+    height: 70px;
+}
+.negrochico h5{
+margin: 30px;
+}
+
+
+
